@@ -1,0 +1,26 @@
+Backend Software Engineer
+NovaLedger Technologies
+
+About the role
+We are hiring a Backend Software Engineer to help build and scale the core
+services behind our payments platform. You will design APIs, own data
+models, and work closely with product and frontend engineers.
+
+Requirements (essential):
+- 3+ years of professional software engineering experience
+- Strong proficiency in Python
+- Experience designing and consuming REST APIs
+- Experience with relational databases (e.g. PostgreSQL, MySQL)
+- Bachelor's degree in Computer Science or a related field
+
+Nice to have (preferred):
+- Experience with Docker and containerized deployments
+- Familiarity with a cloud platform (AWS, GCP, or Azure)
+- Experience with asynchronous task queues (e.g. Celery, RQ)
+- Prior experience mentoring junior engineers
+
+What you'll do:
+- Design and ship REST APIs used by our mobile and web clients
+- Own the schema and performance of our core PostgreSQL database
+- Participate in code review and on-call rotation
+- Mentor junior engineers as the team grows

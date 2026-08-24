@@ -1,0 +1,30 @@
+[project]
+name = "recruitment-app"
+version = "0.1.0"
+description = "Hackathon: an intelligent recruitment support system (resume screening, matching, interview prep, scheduling)."
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    # the recruiting package (resumes, JDs, matching)
+    "pydantic>=2.0",
+    # any file -> markdown (PDF, Excel, Word, PowerPoint)
+    "markitdown[pdf,xlsx,docx,pptx]>=0.0.1a2",
+    # Google Drive (resumes/JDs) and Calendar (scheduling)
+    "google-api-python-client>=2.100",
+    "google-auth-httplib2>=0.2",
+    "google-auth-oauthlib>=1.2",
+    # the agent
+    "langchain>=1.0",
+    "python-dotenv>=1.0",
+    # the recruiter-facing UI
+    "streamlit>=1.38",
+    # to run the notebooks
+    "jupyterlab>=4.0",
+    "ipykernel>=6.0",
+    "fpdf2>=2.8.7",
+    "langchain-openai>=1.4.1",
+]
+
+# This folder is an app, not a library. uv builds a venv from the deps above and
+# the notebooks/app import `recruiting` from the local folder next to them.
+[tool.uv]
+package = false

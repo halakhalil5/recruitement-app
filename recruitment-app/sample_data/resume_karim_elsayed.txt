@@ -1,0 +1,28 @@
+Karim El-Sayed
+karim.elsayed@example.com | +20 111 222 3344 | Giza, Egypt
+
+Summary
+Software engineer with 2.5 years of experience building web APIs, mostly in
+Ruby on Rails, looking to move into a Python-focused backend role.
+
+Experience
+
+Software Engineer, Delta Commerce (Giza) — Jan 2023 to Present
+- Built and maintained JSON APIs in Ruby on Rails for an e-commerce
+  platform, consumed by an iOS and Android app.
+- Modeled the product catalog and order tables in MySQL; wrote the queries
+  behind the storefront's search and filtering.
+- Set up a staging environment using Docker Compose so the team could test
+  API changes before release.
+
+Junior Developer, Delta Commerce (Giza) — Jun 2022 to Dec 2022
+- Fixed bugs in the existing Rails codebase and wrote RSpec tests for
+  previously untested endpoints.
+- Shadowed senior engineers on API design reviews.
+
+Education
+B.Sc. Computer Science, Cairo University — 2022
+
+Skills
+Ruby on Rails, JSON API design, MySQL, Docker Compose, RSpec, Git, basic
+Python scripting (personal projects only)

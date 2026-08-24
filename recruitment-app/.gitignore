@@ -1,0 +1,10 @@
+.venv/
+.env
+downloads/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Google OAuth secrets - never commit these
+credentials.json
+token.json

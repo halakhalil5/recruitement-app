@@ -1,0 +1,27 @@
+Lina Farouk
+lina.farouk.cs@example.com
+
+Summary
+Motivated developer with experience across several stacks, expert in
+Python, fast learner, team player.
+
+Experience
+
+Backend Developer, Skyline Apps — Mar 2021 to Nov 2023
+- Worked on the company's main product APIs.
+- Helped with database-related tasks.
+- Participated in team meetings and sprint planning.
+
+Full-Stack Developer, Brightwave Studio — Aug 2022 to Present
+- Built features across the frontend and backend of a booking platform.
+- Used SQL for reporting queries.
+
+Freelance Web Developer
+- Delivered several small websites for local businesses.
+
+Education
+Computer Science, Helwan University
+
+Skills
+Python (expert), JavaScript, HTML/CSS, SQL, "worked with APIs", team
+collaboration, problem solving

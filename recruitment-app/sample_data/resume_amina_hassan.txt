@@ -1,0 +1,32 @@
+Amina Hassan
+amina.hassan.dev@example.com | +20 100 555 1234 | Cairo, Egypt
+
+Summary
+Backend engineer with 5 years of experience building and scaling REST APIs
+and relational data models for fintech products.
+
+Experience
+
+Backend Engineer, PayFlow Egypt (Cairo) — Jun 2021 to Present
+- Designed and shipped REST APIs (Django REST Framework) powering PayFlow's
+  mobile app, serving ~40k daily active users.
+- Owned the PostgreSQL schema for the transactions service; led a migration
+  that cut p95 query latency by 60%.
+- Containerized all backend services with Docker and deployed them on AWS
+  (ECS, RDS, S3).
+- Introduced Celery for async settlement processing, replacing a cron-based
+  batch job.
+- Mentored two junior engineers through their first six months.
+
+Software Engineer, Cairo Byte Labs (Cairo) — Jul 2019 to May 2021
+- Built internal REST APIs in Python (Flask) for an inventory management
+  product, backed by MySQL.
+- Wrote the team's first integration test suite, raising coverage from 20%
+  to 75%.
+
+Education
+B.Sc. Computer Science, Ain Shams University — 2019
+
+Skills
+Python, Django, Flask, REST API design, PostgreSQL, MySQL, Docker, AWS
+(ECS, RDS, S3), Celery, Git, code review, mentoring
